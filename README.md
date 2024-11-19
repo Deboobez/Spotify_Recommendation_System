@@ -52,4 +52,4 @@ Kaggle Dataset: [Top 10000 Songs on Spotify 1950-Now](https://www.kaggle.com/dat
 *This project was completed in collaboration with:*
 - *Sai Donepudi ([SaiDonepudi@my.unt.edu](mailto:SaiDonepudi@my.unt.edu))*
 - *Mateo Lauzardo ([mlauz005@fiu.edu](mailto:mlauz005@fiu.edu))*
-- *Debora Tantu*
+- *Debora Tantu ([dtantu1@umbc.edu](mailto:dtantu1@umbc.edu))*
